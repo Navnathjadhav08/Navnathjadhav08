@@ -8,5 +8,5 @@
 
 💞️ I’m looking to collaborate on open-source projects that make a positive impact and contribute to the developer community.
 
-📫 You can reach me through email at nj618021gmail.com or connect with me on LinkedIn.
+📫 You can reach me through email at navnathjadhav0824gmail.com or connect with me on LinkedIn.
 
