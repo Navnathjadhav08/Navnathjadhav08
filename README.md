@@ -1,7 +1,12 @@
+<h1 align="center">
+ <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" />
+</h1>
+
+
 <h1 align="center">Hi 👋, I'm Navnath Jadhav</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <a href="https://twitter.com/navnath61600171" target="blank"><img src="https://img.shields.io/twitter/follow/navnath61600171?logo=twitter&style=for-the-badge" alt="navnath61600171" /></a> </p>
 
